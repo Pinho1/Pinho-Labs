@@ -8,7 +8,7 @@ We need the input from your microphone so that we can plot the audio spectrum. E
 
 We do not use any third party software to collect data on usage. We do collect anonymous crash reports from Google as is provided by the Play Store Service.
 
-Copyright ©2017© Pinho Labs
+Copyright ©2017 Pinho Labs
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
